@@ -9,10 +9,10 @@ function App() {
         <div>
   <div
     style={{
-      color: 'red'
+      color: 'blue'
     }}
   >
-    First node spell app done.
+    First node spell app done. WOW
   </div>
 </div>
         <div style={{ color: 'gray' }}>Deployed with NodeSpell</div>
