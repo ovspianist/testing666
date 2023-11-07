@@ -7,7 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div>
-  123
+  <div
+    style={{
+      color: 'red'
+    }}
+  >
+    First node spell app done.
+  </div>
 </div>
         <div style={{ color: 'gray' }}>Deployed with NodeSpell</div>
       </header>
